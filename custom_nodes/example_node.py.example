@@ -153,3 +153,4 @@ NODE_CLASS_MAPPINGS = {
 NODE_DISPLAY_NAME_MAPPINGS = {
     "Example": "Example Node"
 }
+git clone https://github.com/john-mnz/ComfyUI-Inspyrenet-Rembg.git
